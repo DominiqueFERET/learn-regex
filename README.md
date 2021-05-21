@@ -1,18 +1,12 @@
+<a href="https://www.buymeacoffee.com/ziishaned" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 <p align="center">
     <br/>
-    <a href="https://github.com/ziishaned/learn-regex">
+    <a href="https://github.com/ziishaned/learn-regex">	
         <img src="https://i.imgur.com/bYwl7Vf.png" alt="Learn Regex">
     </a>
-    <br /><br />
-    <p>
-        <a href="https://twitter.com/ziishaned">
-            <img src="https://img.shields.io/twitter/follow/ziishaned.svg?style=social" />
-        </a>
-        <a href="https://github.com/ziishaned">
-            <img src="https://img.shields.io/github/followers/ziishaned.svg?label=Follow%20%40ziishaned&style=social" />
-        </a>
-    </p>
 </p>
+
 
 ## Translations:
 
@@ -33,6 +27,12 @@
 * [فارسی](translations/README-fa.md)
 
 ## What is Regular Expression?
+
+<p>
+    <a href="https://gum.co/learn-regex">
+        <img src="https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="Download PDF">
+    </a>
+</p>
 
 > A regular expression is a group of characters or symbols which is used to find a specific pattern in a text.
 
@@ -235,7 +235,7 @@ clarified that`t` is the last `t` in the sentence.
 In regular expressions, the meta character `?` makes the preceding character
 optional. This symbol matches zero or one instance of the preceding character.
 For example, the regular expression `[T]?he` means: Optional uppercase
-`T`, followed by a lowercase `h`, followed bya lowercase `e`.
+`T`, followed by a lowercase `h`, followed by a lowercase `e`.
 
 <pre>
 "[T]he" => <a href="#learn-regex"><strong>The</strong></a> car is parked in the garage.
